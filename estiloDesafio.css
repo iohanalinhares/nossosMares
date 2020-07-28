@@ -1,0 +1,42 @@
+
+/* Estilização do plano de fundo */ 
+#capa{
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#principal{
+    text-align: center;
+    padding-top: 15%;
+    color: white;
+}
+
+/* Títilo principal da pagina, em cima do lano de fundo */
+#titulo {
+    font-size: 40px;
+}
+
+/* Estilizacao do hr utilizado para inserir a linha */
+#linha{
+    background-color: white;
+    width: 50%;
+}
+
+/* Subtitulo da pagina, em cima do lano de fundo  */
+#sub {
+    font-size: 20px;
+}
+
+/* Estilizacao do botao com acao */
+#acao{
+    border: 1px white solid;
+    padding: 10px;
+    color: white;
+}
+
+/* Estilizacao do corpo da pagina, abaixo da imagem de fundo */
+#corpo{
+    padding-top: 25%;
+    height: 25%;
+}
